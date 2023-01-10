@@ -14,4 +14,7 @@ public interface MathAlgorithm<T extends Number> extends Algorithm<T> {
         throw new AlgorithmException();
     }
 
+    default T getSum(T a, T b) throws AlgorithmException {
+        throw new AlgorithmException();
+    }
 }
