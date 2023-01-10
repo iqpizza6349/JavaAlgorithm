@@ -6,7 +6,11 @@ public interface Algorithm {
         throw new AlgorithmException();
     }
 
-    default <T> T algorithm(T... t) throws AlgorithmException {
+    default <T> T algorithm(T t) throws AlgorithmException {
+        throw new AlgorithmException();
+    }
+
+    default <T> T algorithm(T[] ts) throws AlgorithmException {
         throw new AlgorithmException();
     }
 
