@@ -13,9 +13,4 @@ public interface Algorithm<T> {
     default T algorithm(T[] ts) throws AlgorithmException {
         throw new AlgorithmException();
     }
-
-    default <S> T algorithm(T t, S s) throws AlgorithmException {
-        throw new AlgorithmException();
-    }
-
 }
