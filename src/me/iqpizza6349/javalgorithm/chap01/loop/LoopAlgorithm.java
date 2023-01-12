@@ -1,6 +1,6 @@
 package me.iqpizza6349.javalgorithm.chap01.loop;
 
-import me.iqpizza6349.javalgorithm.Algorithm;
+import me.iqpizza6349.javalgorithm.algorithms.Algorithm;
 
 public class LoopAlgorithm implements Algorithm<Integer> {
 

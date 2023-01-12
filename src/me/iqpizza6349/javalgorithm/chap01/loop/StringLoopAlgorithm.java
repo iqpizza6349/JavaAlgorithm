@@ -1,6 +1,6 @@
 package me.iqpizza6349.javalgorithm.chap01.loop;
 
-import me.iqpizza6349.javalgorithm.StringAlgorithm;
+import me.iqpizza6349.javalgorithm.algorithms.StringAlgorithm;
 
 public class StringLoopAlgorithm implements StringAlgorithm<Integer> {
 

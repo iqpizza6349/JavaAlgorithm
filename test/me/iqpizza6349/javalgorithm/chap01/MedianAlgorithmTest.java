@@ -1,6 +1,6 @@
 package me.iqpizza6349.javalgorithm.chap01;
 
-import me.iqpizza6349.javalgorithm.AlgorithmException;
+import me.iqpizza6349.javalgorithm.algorithms.AlgorithmException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,7 +1,7 @@
 package me.iqpizza6349.javalgorithm.chap01.loop;
 
-import me.iqpizza6349.javalgorithm.AlgorithmException;
-import me.iqpizza6349.javalgorithm.StringAlgorithm;
+import me.iqpizza6349.javalgorithm.algorithms.AlgorithmException;
+import me.iqpizza6349.javalgorithm.algorithms.StringAlgorithm;
 
 public class PyramidAlgorithm implements StringAlgorithm<Integer> {
 

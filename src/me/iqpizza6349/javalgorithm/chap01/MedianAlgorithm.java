@@ -1,7 +1,7 @@
 package me.iqpizza6349.javalgorithm.chap01;
 
-import me.iqpizza6349.javalgorithm.AlgorithmException;
-import me.iqpizza6349.javalgorithm.MathAlgorithm;
+import me.iqpizza6349.javalgorithm.algorithms.AlgorithmException;
+import me.iqpizza6349.javalgorithm.algorithms.MathAlgorithm;
 
 import java.util.Arrays;
 

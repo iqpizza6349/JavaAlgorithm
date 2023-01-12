@@ -1,4 +1,4 @@
-package me.iqpizza6349.javalgorithm;
+package me.iqpizza6349.javalgorithm.algorithms;
 
 public interface StringAlgorithm<T> {
 

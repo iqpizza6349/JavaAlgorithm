@@ -1,6 +1,6 @@
 package me.iqpizza6349.javalgorithm.chap01;
 
-import me.iqpizza6349.javalgorithm.MathAlgorithm;
+import me.iqpizza6349.javalgorithm.algorithms.MathAlgorithm;
 
 public class GaussAlgorithm implements MathAlgorithm<Integer> {
 
